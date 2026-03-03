@@ -1,16 +1,16 @@
-## Hi there 👋
+![Header](./github-header-banner.png)
 
-<!--
-**Bryannauli/Bryannauli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/bryannauli/bryannauli/output/snake.svg" alt="Snake animation" />
 
-Here are some ideas to get you started:
+# **HALO,**
+## Nama Saya Bryan
+###### Mahasiswa USU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](    https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryannauli)](https://github.com/bryannauli/github-readme-stats)
+
+<img src="https://raw.githubusercontent.com/bryannauli/bryannauli/output/snake.svg" alt="Snake animation" />
+
+![Header](./github-header-banner.png)
+
